@@ -1,4 +1,4 @@
-# 🏫 School Profile Scraper
+# 🏫 School Profile Web-Scraper
 
 This project is a two-part Python toolset to download and extract detailed school profile information from Niche.com school pages.
 
